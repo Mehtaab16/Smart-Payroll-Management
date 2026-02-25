@@ -1,0 +1,2372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\profileChangeRequests.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\profileChangeRequests.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\payrollAnomalies.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\payrollAnomalies.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\pm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\pm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\Project.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\Project.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\PayrollAnomaly.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\PayrollAnomaly.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\Paycode.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\Paycode.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\OvertimeRequest.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\OvertimeRequest.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\KnowledgeDocument.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\KnowledgeDocument.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\LeaveRequest.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\LeaveRequest.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\KnowledgeChunk.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\KnowledgeChunk.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\KnowledgeChat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\KnowledgeChat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\EmployeePaycodeAssignment.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\EmployeePaycodeAssignment.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\EmployeeDocuments.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\EmployeeDocuments.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\EmailLog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\EmailLog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\CvFile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\CvFile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\CompanySettings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\CompanySettings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\CertificateFile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\CertificateFile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\AuditLog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\AuditLog.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\middleware\\uploadsupport.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\middleware\\uploadsupport.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\middleware\\uploadKnowledge.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\middleware\\uploadKnowledge.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\middleware\\uploadAvatar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\middleware\\uploadAvatar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\middleware\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\middleware\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\config\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\config\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\utils\\openaiRetry.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\utils\\openaiRetry.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\utils\\openaiClient.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\utils\\openaiClient.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\utils\\mailerCore.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\utils\\mailerCore.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\utils\\mailer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\utils\\mailer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\utils\\embeddings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\utils\\embeddings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\utils\\audit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\utils\\audit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\services\\payrollRunner.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\services\\payrollRunner.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\services\\knowledgeWorker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\services\\knowledgeWorker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\services\\knowledgeRetrieval.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\services\\knowledgeRetrieval.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\services\\knowledgeProcessor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\services\\knowledgeProcessor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\services\\emailRetryWorker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\services\\emailRetryWorker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\supportRoutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\supportRoutes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\reports.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\reports.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\progressions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\progressions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\payslips.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\payslips.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\payrollSchedule.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\payrollSchedule.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\payrollRuns.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\payrollRuns.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\payrollBanking.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\payrollBanking.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\payrollAdjustments.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\payrollAdjustments.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\paycodes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\paycodes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\Overtime.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\Overtime.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\leave.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\leave.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\knowledge.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\knowledge.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\impersonation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\impersonation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\employees.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\employees.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\employeePaycodes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\employeePaycodes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\employeeDocuments.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\employeeDocuments.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\company.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\company.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\bankingExport.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\bankingExport.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\audit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\audit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\accessRights.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\routes\\accessRights.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\User.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\User.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\SupportTicket.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\SupportTicket.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\ProfileChangeRequest.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\ProfileChangeRequest.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\Payslip.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\Payslip.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\PayrollSchedule.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\PayrollSchedule.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\PayrollRun.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\PayrollRun.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\PayrollAdjustment.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\PayrollAdjustment.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\KnowledgeSettings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\models\\KnowledgeSettings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\payrollRunsApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\payrollRunsApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\utils\\offlineQueue.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\utils\\offlineQueue.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\utils\\offlineStore.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\utils\\offlineStore.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\leaveApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\leaveApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\utils\\offlineQueueWorker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\utils\\offlineQueueWorker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\SupportRequests.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages\\SupportRequests.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\Overtime.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages\\Overtime.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\LeaveModule.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages\\LeaveModule.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\supportApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\supportApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\overtimeApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\overtimeApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\utils\\offlineOutbox.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\utils\\offlineOutbox.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\utils\\offlineFetch.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\utils\\offlineFetch.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\profileApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\profileApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\components\\OfflineBanner.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\OfflineBanner.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\components\\SideBarLayout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\SideBarLayout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\Dashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages\\Dashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\hooks\\useOnline.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\hooks\\useOnline.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\Profile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages\\Profile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\accessibilityApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\accessibilityApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\accessRightsApi.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\accessRightsApi.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\components\\AppLayout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\AppLayout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\knowledgeApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\knowledgeApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\components\\BackOfficeLayout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\BackOfficeLayout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\admin\\KnowledgeHubSettingsAdmin.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages\\admin\\KnowledgeHubSettingsAdmin.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\KnowledgeDocumentsPm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages_pm\\KnowledgeDocumentsPm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\KnowledgeHub.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages\\KnowledgeHub.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\PMDashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages_pm\\PMDashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\PMProfile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages_pm\\PMProfile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\admin\\Impersonation.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages\\admin\\Impersonation.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\employeesApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\employeesApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\impersonationApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\impersonationApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\components\\ImpersonationBanner.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\components\\ImpersonationBanner.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\EmployeeDocuments.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages_pm\\EmployeeDocuments.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\MyDocuments.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages\\MyDocuments.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\LeaveApprovals.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages_pm\\LeaveApprovals.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\AccessRights.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages_pm\\AccessRights.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\employeeDocumentsApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\employeeDocumentsApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\PayslipView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages\\PayslipView.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\MyPayslips.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages\\MyPayslips.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\reportsApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\reportsApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\Reports.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages_pm\\Reports.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\payrollAnomaliesApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\payrollAnomaliesApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\backofficeProfileApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\backofficeProfileApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\AccessibilityPm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages_pm\\AccessibilityPm.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\Accessibility.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages\\Accessibility.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\overtimePmApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\overtimePmApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\PayrollAdjustments.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages_pm\\PayrollAdjustments.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\Login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages\\Login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\EmployeeCompensation.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages_pm\\EmployeeCompensation.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\payrollScheduleApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\payrollScheduleApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\payrollAdjustmentsApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\payrollAdjustmentsApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\EmployeeSetup.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages_pm\\EmployeeSetup.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\Paycodes.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages_pm\\Paycodes.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\paycodesApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\paycodesApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\employeePaycodesApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\employeePaycodesApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\ProgressionsViewer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages_pm\\ProgressionsViewer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\progressionsBackofficeApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\progressionsBackofficeApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\Progressions.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages\\Progressions.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\progressionsApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\progressionsApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\OvertimeApprovals.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages_pm\\OvertimeApprovals.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\ProfileChangeApprovals.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages_pm\\ProfileChangeApprovals.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\auditApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\api\\auditApi.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\PMSupportTickets.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\pages_pm\\PMSupportTickets.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pm.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\pm.js",
+              "RelativeDocumentMoniker": "server\\routes\\pm.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\pm.js",
+              "RelativeToolTip": "server\\routes\\pm.js",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-03T10:06:53.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "payrollAnomalies.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\payrollAnomalies.js",
+              "RelativeDocumentMoniker": "server\\routes\\payrollAnomalies.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\payrollAnomalies.js",
+              "RelativeToolTip": "server\\routes\\payrollAnomalies.js",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAHEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T17:47:32.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "profileChangeRequests.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\profileChangeRequests.js",
+              "RelativeDocumentMoniker": "server\\routes\\profileChangeRequests.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\profileChangeRequests.js",
+              "RelativeToolTip": "server\\routes\\profileChangeRequests.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAABAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-02T05:47:33.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\Project.js",
+              "RelativeDocumentMoniker": "server\\models\\Project.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\Project.js",
+              "RelativeToolTip": "server\\models\\Project.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-29T16:20:46.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PayrollAnomaly.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\PayrollAnomaly.js",
+              "RelativeDocumentMoniker": "server\\models\\PayrollAnomaly.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\PayrollAnomaly.js",
+              "RelativeToolTip": "server\\models\\PayrollAnomaly.js",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T17:45:28.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Paycode.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\Paycode.js",
+              "RelativeDocumentMoniker": "server\\models\\Paycode.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\Paycode.js",
+              "RelativeToolTip": "server\\models\\Paycode.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T07:12:55.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OvertimeRequest.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\OvertimeRequest.js",
+              "RelativeDocumentMoniker": "server\\models\\OvertimeRequest.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\OvertimeRequest.js",
+              "RelativeToolTip": "server\\models\\OvertimeRequest.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-29T15:14:29.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KnowledgeDocument.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\KnowledgeDocument.js",
+              "RelativeDocumentMoniker": "server\\models\\KnowledgeDocument.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\KnowledgeDocument.js",
+              "RelativeToolTip": "server\\models\\KnowledgeDocument.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-10T11:04:47.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeaveRequest.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\LeaveRequest.js",
+              "RelativeDocumentMoniker": "server\\models\\LeaveRequest.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\LeaveRequest.js",
+              "RelativeToolTip": "server\\models\\LeaveRequest.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-28T19:05:24.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KnowledgeChunk.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\KnowledgeChunk.js",
+              "RelativeDocumentMoniker": "server\\models\\KnowledgeChunk.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\KnowledgeChunk.js",
+              "RelativeToolTip": "server\\models\\KnowledgeChunk.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-10T11:05:12.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KnowledgeChat.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\KnowledgeChat.js",
+              "RelativeDocumentMoniker": "server\\models\\KnowledgeChat.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\KnowledgeChat.js",
+              "RelativeToolTip": "server\\models\\KnowledgeChat.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-12T06:34:09.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeePaycodeAssignment.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\EmployeePaycodeAssignment.js",
+              "RelativeDocumentMoniker": "server\\models\\EmployeePaycodeAssignment.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\EmployeePaycodeAssignment.js",
+              "RelativeToolTip": "server\\models\\EmployeePaycodeAssignment.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T07:13:35.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeDocuments.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\EmployeeDocuments.js",
+              "RelativeDocumentMoniker": "server\\models\\EmployeeDocuments.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\EmployeeDocuments.js",
+              "RelativeToolTip": "server\\models\\EmployeeDocuments.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-03T17:29:03.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmailLog.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\EmailLog.js",
+              "RelativeDocumentMoniker": "server\\models\\EmailLog.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\EmailLog.js",
+              "RelativeToolTip": "server\\models\\EmailLog.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-09T15:45:40.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CvFile.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\CvFile.js",
+              "RelativeDocumentMoniker": "server\\models\\CvFile.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\CvFile.js",
+              "RelativeToolTip": "server\\models\\CvFile.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-29T16:21:23.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CompanySettings.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\CompanySettings.js",
+              "RelativeDocumentMoniker": "server\\models\\CompanySettings.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\CompanySettings.js",
+              "RelativeToolTip": "server\\models\\CompanySettings.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-27T16:34:00.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CertificateFile.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\CertificateFile.js",
+              "RelativeDocumentMoniker": "server\\models\\CertificateFile.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\CertificateFile.js",
+              "RelativeToolTip": "server\\models\\CertificateFile.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-29T16:21:53.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuditLog.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\AuditLog.js",
+              "RelativeDocumentMoniker": "server\\models\\AuditLog.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\AuditLog.js",
+              "RelativeToolTip": "server\\models\\AuditLog.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-30T19:30:08.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "uploadsupport.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\middleware\\uploadsupport.js",
+              "RelativeDocumentMoniker": "server\\middleware\\uploadsupport.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\middleware\\uploadsupport.js",
+              "RelativeToolTip": "server\\middleware\\uploadsupport.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-29T17:23:28.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "uploadKnowledge.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\middleware\\uploadKnowledge.js",
+              "RelativeDocumentMoniker": "server\\middleware\\uploadKnowledge.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\middleware\\uploadKnowledge.js",
+              "RelativeToolTip": "server\\middleware\\uploadKnowledge.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-10T11:07:19.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "uploadAvatar.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\middleware\\uploadAvatar.js",
+              "RelativeDocumentMoniker": "server\\middleware\\uploadAvatar.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\middleware\\uploadAvatar.js",
+              "RelativeToolTip": "server\\middleware\\uploadAvatar.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-30T19:31:47.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "auth.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\middleware\\auth.js",
+              "RelativeDocumentMoniker": "server\\middleware\\auth.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\middleware\\auth.js",
+              "RelativeToolTip": "server\\middleware\\auth.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-27T16:20:15.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "db.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\config\\db.js",
+              "RelativeDocumentMoniker": "server\\config\\db.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\config\\db.js",
+              "RelativeToolTip": "server\\config\\db.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-27T15:38:11.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\vite.config.js",
+              "RelativeDocumentMoniker": "client\\vite.config.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\vite.config.js",
+              "RelativeToolTip": "client\\vite.config.js",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-20T15:46:28.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\tailwind.config.js",
+              "RelativeDocumentMoniker": "client\\tailwind.config.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\tailwind.config.js",
+              "RelativeToolTip": "client\\tailwind.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-28T08:39:19.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\index.html",
+              "RelativeDocumentMoniker": "client\\index.html",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\index.html",
+              "RelativeToolTip": "client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-20T17:06:32.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\eslint.config.js",
+              "RelativeDocumentMoniker": "client\\eslint.config.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\eslint.config.js",
+              "RelativeToolTip": "client\\eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-20T15:45:39.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\package-lock.json",
+              "RelativeDocumentMoniker": "server\\package-lock.json",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\package-lock.json",
+              "RelativeToolTip": "server\\package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANUGAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-27T15:30:38.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\index.js",
+              "RelativeDocumentMoniker": "server\\index.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\index.js",
+              "RelativeToolTip": "server\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-12T15:50:02.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\app.js",
+              "RelativeDocumentMoniker": "server\\app.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\app.js",
+              "RelativeToolTip": "server\\app.js",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAowBoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-27T15:34:27.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\.env",
+              "RelativeDocumentMoniker": "server\\.env",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\.env",
+              "RelativeToolTip": "server\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-27T15:39:07.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "openaiRetry.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\utils\\openaiRetry.js",
+              "RelativeDocumentMoniker": "server\\utils\\openaiRetry.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\utils\\openaiRetry.js",
+              "RelativeToolTip": "server\\utils\\openaiRetry.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-12T14:39:45.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "openaiClient.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\utils\\openaiClient.js",
+              "RelativeDocumentMoniker": "server\\utils\\openaiClient.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\utils\\openaiClient.js",
+              "RelativeToolTip": "server\\utils\\openaiClient.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-12T06:29:52.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "mailerCore.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\utils\\mailerCore.js",
+              "RelativeDocumentMoniker": "server\\utils\\mailerCore.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\utils\\mailerCore.js",
+              "RelativeToolTip": "server\\utils\\mailerCore.js",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-22T09:30:40.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "mailer.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\utils\\mailer.js",
+              "RelativeDocumentMoniker": "server\\utils\\mailer.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\utils\\mailer.js",
+              "RelativeToolTip": "server\\utils\\mailer.js",
+              "ViewState": "AgIAAMcBAAAAAAAAAAAgwHYBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-04T16:45:56.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "embeddings.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\utils\\embeddings.js",
+              "RelativeDocumentMoniker": "server\\utils\\embeddings.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\utils\\embeddings.js",
+              "RelativeToolTip": "server\\utils\\embeddings.js",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-12T06:30:36.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "audit.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\utils\\audit.js",
+              "RelativeDocumentMoniker": "server\\utils\\audit.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\utils\\audit.js",
+              "RelativeToolTip": "server\\utils\\audit.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-09T18:07:11.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "users.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\users.js",
+              "RelativeDocumentMoniker": "server\\routes\\users.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\users.js",
+              "RelativeToolTip": "server\\routes\\users.js",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAwHEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-30T19:32:19.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "payrollRunner.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\services\\payrollRunner.js",
+              "RelativeDocumentMoniker": "server\\services\\payrollRunner.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\services\\payrollRunner.js",
+              "RelativeToolTip": "server\\services\\payrollRunner.js",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAAwBgBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T17:56:12.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "knowledgeWorker.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\services\\knowledgeWorker.js",
+              "RelativeDocumentMoniker": "server\\services\\knowledgeWorker.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\services\\knowledgeWorker.js",
+              "RelativeToolTip": "server\\services\\knowledgeWorker.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-10T14:40:02.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "knowledgeRetrieval.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\services\\knowledgeRetrieval.js",
+              "RelativeDocumentMoniker": "server\\services\\knowledgeRetrieval.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\services\\knowledgeRetrieval.js",
+              "RelativeToolTip": "server\\services\\knowledgeRetrieval.js",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-12T06:33:04.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "knowledgeProcessor.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\services\\knowledgeProcessor.js",
+              "RelativeDocumentMoniker": "server\\services\\knowledgeProcessor.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\services\\knowledgeProcessor.js",
+              "RelativeToolTip": "server\\services\\knowledgeProcessor.js",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAYwIEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-10T14:39:36.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "emailRetryWorker.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\services\\emailRetryWorker.js",
+              "RelativeDocumentMoniker": "server\\services\\emailRetryWorker.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\services\\emailRetryWorker.js",
+              "RelativeToolTip": "server\\services\\emailRetryWorker.js",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-22T06:46:25.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "supportRoutes.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\supportRoutes.js",
+              "RelativeDocumentMoniker": "server\\routes\\supportRoutes.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\supportRoutes.js",
+              "RelativeToolTip": "server\\routes\\supportRoutes.js",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAQwEQBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-29T17:23:57.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "reports.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\reports.js",
+              "RelativeDocumentMoniker": "server\\routes\\reports.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\reports.js",
+              "RelativeToolTip": "server\\routes\\reports.js",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAAAE8BAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-08T14:51:28.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "progressions.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\progressions.js",
+              "RelativeDocumentMoniker": "server\\routes\\progressions.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\progressions.js",
+              "RelativeToolTip": "server\\routes\\progressions.js",
+              "ViewState": "AgIAANIBAAAAAAAAAAAQwJkBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-29T16:22:20.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "payslips.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\payslips.js",
+              "RelativeDocumentMoniker": "server\\routes\\payslips.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\payslips.js",
+              "RelativeToolTip": "server\\routes\\payslips.js",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAYwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-27T16:46:30.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "payrollSchedule.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\payrollSchedule.js",
+              "RelativeDocumentMoniker": "server\\routes\\payrollSchedule.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\payrollSchedule.js",
+              "RelativeToolTip": "server\\routes\\payrollSchedule.js",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAgwLsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T17:46:33.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "payrollRuns.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\payrollRuns.js",
+              "RelativeDocumentMoniker": "server\\routes\\payrollRuns.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\payrollRuns.js",
+              "RelativeToolTip": "server\\routes\\payrollRuns.js",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAwIUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T17:45:49.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "payrollBanking.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\payrollBanking.js",
+              "RelativeDocumentMoniker": "server\\routes\\payrollBanking.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\payrollBanking.js",
+              "RelativeToolTip": "server\\routes\\payrollBanking.js",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T17:47:08.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "payrollAdjustments.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\payrollAdjustments.js",
+              "RelativeDocumentMoniker": "server\\routes\\payrollAdjustments.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\payrollAdjustments.js",
+              "RelativeToolTip": "server\\routes\\payrollAdjustments.js",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAAwBgBAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T09:48:13.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "paycodes.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\paycodes.js",
+              "RelativeDocumentMoniker": "server\\routes\\paycodes.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\paycodes.js",
+              "RelativeToolTip": "server\\routes\\paycodes.js",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAAwNsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T07:13:55.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Overtime.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\Overtime.js",
+              "RelativeDocumentMoniker": "server\\routes\\Overtime.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\Overtime.js",
+              "RelativeToolTip": "server\\routes\\Overtime.js",
+              "ViewState": "AgIAALABAAAAAAAAAAAowJYBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-29T15:15:14.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "leave.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\leave.js",
+              "RelativeDocumentMoniker": "server\\routes\\leave.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\leave.js",
+              "RelativeToolTip": "server\\routes\\leave.js",
+              "ViewState": "AgIAAOUBAAAAAAAAAAAgwNQBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-28T19:05:50.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "knowledge.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\knowledge.js",
+              "RelativeDocumentMoniker": "server\\routes\\knowledge.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\knowledge.js",
+              "RelativeToolTip": "server\\routes\\knowledge.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-10T11:07:43.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "impersonation.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\impersonation.js",
+              "RelativeDocumentMoniker": "server\\routes\\impersonation.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\impersonation.js",
+              "RelativeToolTip": "server\\routes\\impersonation.js",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAGoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-09T17:56:19.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "employees.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\employees.js",
+              "RelativeDocumentMoniker": "server\\routes\\employees.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\employees.js",
+              "RelativeToolTip": "server\\routes\\employees.js",
+              "ViewState": "AgIAAPMBAAAAAAAAAAAQwMgBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-03T17:27:41.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "employeePaycodes.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\employeePaycodes.js",
+              "RelativeDocumentMoniker": "server\\routes\\employeePaycodes.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\employeePaycodes.js",
+              "RelativeToolTip": "server\\routes\\employeePaycodes.js",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T07:14:19.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "employeeDocuments.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\employeeDocuments.js",
+              "RelativeDocumentMoniker": "server\\routes\\employeeDocuments.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\employeeDocuments.js",
+              "RelativeToolTip": "server\\routes\\employeeDocuments.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-03T17:29:38.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "company.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\company.js",
+              "RelativeDocumentMoniker": "server\\routes\\company.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\company.js",
+              "RelativeToolTip": "server\\routes\\company.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-27T16:34:48.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "bankingExport.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\bankingExport.js",
+              "RelativeDocumentMoniker": "server\\routes\\bankingExport.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\bankingExport.js",
+              "RelativeToolTip": "server\\routes\\bankingExport.js",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T18:53:07.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "auth.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\auth.js",
+              "RelativeDocumentMoniker": "server\\routes\\auth.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\auth.js",
+              "RelativeToolTip": "server\\routes\\auth.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-27T16:05:43.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "audit.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\audit.js",
+              "RelativeDocumentMoniker": "server\\routes\\audit.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\audit.js",
+              "RelativeToolTip": "server\\routes\\audit.js",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-30T19:32:47.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "accessRights.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\accessRights.js",
+              "RelativeDocumentMoniker": "server\\routes\\accessRights.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\routes\\accessRights.js",
+              "RelativeToolTip": "server\\routes\\accessRights.js",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAYwK4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-03T17:28:33.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "User.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\User.js",
+              "RelativeDocumentMoniker": "server\\models\\User.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\User.js",
+              "RelativeToolTip": "server\\models\\User.js",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-27T16:03:41.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SupportTicket.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\SupportTicket.js",
+              "RelativeDocumentMoniker": "server\\models\\SupportTicket.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\SupportTicket.js",
+              "RelativeToolTip": "server\\models\\SupportTicket.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-29T17:22:25.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ProfileChangeRequest.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\ProfileChangeRequest.js",
+              "RelativeDocumentMoniker": "server\\models\\ProfileChangeRequest.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\ProfileChangeRequest.js",
+              "RelativeToolTip": "server\\models\\ProfileChangeRequest.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-02T05:46:22.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Payslip.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\Payslip.js",
+              "RelativeDocumentMoniker": "server\\models\\Payslip.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\Payslip.js",
+              "RelativeToolTip": "server\\models\\Payslip.js",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-27T16:45:01.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "PayrollSchedule.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\PayrollSchedule.js",
+              "RelativeDocumentMoniker": "server\\models\\PayrollSchedule.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\PayrollSchedule.js",
+              "RelativeToolTip": "server\\models\\PayrollSchedule.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T17:45:06.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "PayrollRun.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\PayrollRun.js",
+              "RelativeDocumentMoniker": "server\\models\\PayrollRun.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\PayrollRun.js",
+              "RelativeToolTip": "server\\models\\PayrollRun.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T17:44:41.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "PayrollAdjustment.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\PayrollAdjustment.js",
+              "RelativeDocumentMoniker": "server\\models\\PayrollAdjustment.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\PayrollAdjustment.js",
+              "RelativeToolTip": "server\\models\\PayrollAdjustment.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T09:47:50.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "KnowledgeSettings.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\KnowledgeSettings.js",
+              "RelativeDocumentMoniker": "server\\models\\KnowledgeSettings.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\models\\KnowledgeSettings.js",
+              "RelativeToolTip": "server\\models\\KnowledgeSettings.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-10T11:05:37.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-12T15:29:10.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\package.json",
+              "RelativeDocumentMoniker": "server\\package.json",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\server\\package.json",
+              "RelativeToolTip": "server\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-27T15:30:08.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "payrollRunsApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\payrollRunsApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\payrollRunsApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\payrollRunsApi.js",
+              "RelativeToolTip": "client\\src\\api\\payrollRunsApi.js",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T18:55:59.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\main.jsx",
+              "RelativeToolTip": "client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-27T17:13:27.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\App.jsx",
+              "RelativeToolTip": "client\\src\\App.jsx",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAHwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-27T17:13:51.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "offlineQueue.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\utils\\offlineQueue.js",
+              "RelativeDocumentMoniker": "client\\src\\utils\\offlineQueue.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\utils\\offlineQueue.js",
+              "RelativeToolTip": "client\\src\\utils\\offlineQueue.js",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAQwKgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-21T13:02:09.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "offlineStore.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\utils\\offlineStore.js",
+              "RelativeDocumentMoniker": "client\\src\\utils\\offlineStore.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\utils\\offlineStore.js",
+              "RelativeToolTip": "client\\src\\utils\\offlineStore.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-21T10:43:57.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "leaveApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\leaveApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\leaveApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\leaveApi.js",
+              "RelativeToolTip": "client\\src\\api\\leaveApi.js",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAQwMEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-29T06:56:35.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "offlineQueueWorker.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\utils\\offlineQueueWorker.js",
+              "RelativeDocumentMoniker": "client\\src\\utils\\offlineQueueWorker.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\utils\\offlineQueueWorker.js",
+              "RelativeToolTip": "client\\src\\utils\\offlineQueueWorker.js",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-22T08:20:48.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "SupportRequests.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\SupportRequests.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages\\SupportRequests.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\SupportRequests.jsx",
+              "RelativeToolTip": "client\\src\\pages\\SupportRequests.jsx",
+              "ViewState": "AgIAADMDAAAAAAAAAAAQwF0DAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-28T10:50:00.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Overtime.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\Overtime.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages\\Overtime.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\Overtime.jsx",
+              "RelativeToolTip": "client\\src\\pages\\Overtime.jsx",
+              "ViewState": "AgIAAL4CAAAAAAAAAAAQwOgCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-28T10:48:51.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "LeaveModule.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\LeaveModule.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages\\LeaveModule.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\LeaveModule.jsx",
+              "RelativeToolTip": "client\\src\\pages\\LeaveModule.jsx",
+              "ViewState": "AgIAAI8DAAAAAAAAAAAQwLkDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-28T10:49:15.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "supportApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\supportApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\supportApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\supportApi.js",
+              "RelativeToolTip": "client\\src\\api\\supportApi.js",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAQwM8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-29T17:25:56.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "overtimeApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\overtimeApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\overtimeApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\overtimeApi.js",
+              "RelativeToolTip": "client\\src\\api\\overtimeApi.js",
+              "ViewState": "AgIAANMAAAAAAAAAAAAQwP0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-29T15:16:03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "offlineOutbox.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\utils\\offlineOutbox.js",
+              "RelativeDocumentMoniker": "client\\src\\utils\\offlineOutbox.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\utils\\offlineOutbox.js",
+              "RelativeToolTip": "client\\src\\utils\\offlineOutbox.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-21T13:28:48.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "offlineFetch.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\utils\\offlineFetch.js",
+              "RelativeDocumentMoniker": "client\\src\\utils\\offlineFetch.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\utils\\offlineFetch.js",
+              "RelativeToolTip": "client\\src\\utils\\offlineFetch.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-21T13:31:32.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "profileApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\profileApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\profileApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\profileApi.js",
+              "RelativeToolTip": "client\\src\\api\\profileApi.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-30T19:41:15.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "OfflineBanner.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\components\\OfflineBanner.jsx",
+              "RelativeDocumentMoniker": "client\\src\\components\\OfflineBanner.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\components\\OfflineBanner.jsx",
+              "RelativeToolTip": "client\\src\\components\\OfflineBanner.jsx",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-21T07:58:20.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "SideBarLayout.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\components\\SideBarLayout.jsx",
+              "RelativeDocumentMoniker": "client\\src\\components\\SideBarLayout.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\components\\SideBarLayout.jsx",
+              "RelativeToolTip": "client\\src\\components\\SideBarLayout.jsx",
+              "ViewState": "AgIAALcBAAAAAAAAAAAQwM4BAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-28T10:59:10.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Dashboard.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\Dashboard.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages\\Dashboard.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\Dashboard.jsx",
+              "RelativeToolTip": "client\\src\\pages\\Dashboard.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-28T10:47:46.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "useOnline.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\hooks\\useOnline.js",
+              "RelativeDocumentMoniker": "client\\src\\hooks\\useOnline.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\hooks\\useOnline.js",
+              "RelativeToolTip": "client\\src\\hooks\\useOnline.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-21T06:46:25.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Profile.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\Profile.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages\\Profile.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\Profile.jsx",
+              "RelativeToolTip": "client\\src\\pages\\Profile.jsx",
+              "ViewState": "AgIAABMDAAAAAAAAAAAQwD0DAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-28T10:48:31.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "accessibilityApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\accessibilityApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\accessibilityApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\accessibilityApi.js",
+              "RelativeToolTip": "client\\src\\api\\accessibilityApi.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-02T07:37:50.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "accessRightsApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\accessRightsApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\accessRightsApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\accessRightsApi.js",
+              "RelativeToolTip": "client\\src\\api\\accessRightsApi.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-03T18:25:34.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\package.json",
+              "RelativeDocumentMoniker": "client\\package.json",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\package.json",
+              "RelativeToolTip": "client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-20T16:04:47.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "AppLayout.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\components\\AppLayout.jsx",
+              "RelativeDocumentMoniker": "client\\src\\components\\AppLayout.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\components\\AppLayout.jsx",
+              "RelativeToolTip": "client\\src\\components\\AppLayout.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-09T17:15:29.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "knowledgeApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\knowledgeApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\knowledgeApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\knowledgeApi.js",
+              "RelativeToolTip": "client\\src\\api\\knowledgeApi.js",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-10T11:09:45.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "BackOfficeLayout.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\components\\BackOfficeLayout.jsx",
+              "RelativeDocumentMoniker": "client\\src\\components\\BackOfficeLayout.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\components\\BackOfficeLayout.jsx",
+              "RelativeToolTip": "client\\src\\components\\BackOfficeLayout.jsx",
+              "ViewState": "AgIAAF0BAAAAAAAAAAAQwGMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-03T10:08:21.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "KnowledgeHubSettingsAdmin.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\admin\\KnowledgeHubSettingsAdmin.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages\\admin\\KnowledgeHubSettingsAdmin.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\admin\\KnowledgeHubSettingsAdmin.jsx",
+              "RelativeToolTip": "client\\src\\pages\\admin\\KnowledgeHubSettingsAdmin.jsx",
+              "ViewState": "AgIAABkBAAAAAAAAAAAQwDEBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-10T11:55:40.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "KnowledgeDocumentsPm.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\KnowledgeDocumentsPm.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages_pm\\KnowledgeDocumentsPm.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\KnowledgeDocumentsPm.jsx",
+              "RelativeToolTip": "client\\src\\pages_pm\\KnowledgeDocumentsPm.jsx",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAwMIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-10T11:17:04.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "KnowledgeHub.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\KnowledgeHub.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages\\KnowledgeHub.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\KnowledgeHub.jsx",
+              "RelativeToolTip": "client\\src\\pages\\KnowledgeHub.jsx",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAAwAoBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-28T10:50:38.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "PMDashboard.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\PMDashboard.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages_pm\\PMDashboard.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\PMDashboard.jsx",
+              "RelativeToolTip": "client\\src\\pages_pm\\PMDashboard.jsx",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAAABEBAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-03T10:10:23.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "PMProfile.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\PMProfile.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages_pm\\PMProfile.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\PMProfile.jsx",
+              "RelativeToolTip": "client\\src\\pages_pm\\PMProfile.jsx",
+              "ViewState": "AgIAAAACAAAAAAAAAAAQwCoCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-09T05:29:38.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "Impersonation.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\admin\\Impersonation.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages\\admin\\Impersonation.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\admin\\Impersonation.jsx",
+              "RelativeToolTip": "client\\src\\pages\\admin\\Impersonation.jsx",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAwOQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-10T07:15:35.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "employeesApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\employeesApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\employeesApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\employeesApi.js",
+              "RelativeToolTip": "client\\src\\api\\employeesApi.js",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-03T18:23:29.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "impersonationApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\impersonationApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\impersonationApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\impersonationApi.js",
+              "RelativeToolTip": "client\\src\\api\\impersonationApi.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-09T17:55:50.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "ImpersonationBanner.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\components\\ImpersonationBanner.jsx",
+              "RelativeDocumentMoniker": "client\\src\\components\\ImpersonationBanner.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\components\\ImpersonationBanner.jsx",
+              "RelativeToolTip": "client\\src\\components\\ImpersonationBanner.jsx",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-09T18:03:45.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "EmployeeDocuments.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\EmployeeDocuments.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages_pm\\EmployeeDocuments.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\EmployeeDocuments.jsx",
+              "RelativeToolTip": "client\\src\\pages_pm\\EmployeeDocuments.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-03T18:27:57.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "MyDocuments.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\MyDocuments.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages\\MyDocuments.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\MyDocuments.jsx",
+              "RelativeToolTip": "client\\src\\pages\\MyDocuments.jsx",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAAwJQBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-28T16:07:35.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "LeaveApprovals.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\LeaveApprovals.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages_pm\\LeaveApprovals.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\LeaveApprovals.jsx",
+              "RelativeToolTip": "client\\src\\pages_pm\\LeaveApprovals.jsx",
+              "ViewState": "AgIAAIYBAAAAAAAAAAAQwLABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-03T12:54:42.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "AccessRights.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\AccessRights.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages_pm\\AccessRights.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\AccessRights.jsx",
+              "RelativeToolTip": "client\\src\\pages_pm\\AccessRights.jsx",
+              "ViewState": "AgIAAM4BAAAAAAAAAAAQwPgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-03T18:27:21.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "employeeDocumentsApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\employeeDocumentsApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\employeeDocumentsApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\employeeDocumentsApi.js",
+              "RelativeToolTip": "client\\src\\api\\employeeDocumentsApi.js",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-03T18:24:13.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "PayslipView.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\PayslipView.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages\\PayslipView.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\PayslipView.jsx",
+              "RelativeToolTip": "client\\src\\pages\\PayslipView.jsx",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAAAPMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-27T17:16:04.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "MyPayslips.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\MyPayslips.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages\\MyPayslips.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\MyPayslips.jsx",
+              "RelativeToolTip": "client\\src\\pages\\MyPayslips.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-27T17:15:33.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "reportsApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\reportsApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\reportsApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\reportsApi.js",
+              "RelativeToolTip": "client\\src\\api\\reportsApi.js",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-08T14:53:23.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "Reports.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\Reports.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages_pm\\Reports.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\Reports.jsx",
+              "RelativeToolTip": "client\\src\\pages_pm\\Reports.jsx",
+              "ViewState": "AgIAAPcDAAAAAAAAAAAQwCEEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-08T14:53:45.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "payrollAnomaliesApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\payrollAnomaliesApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\payrollAnomaliesApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\payrollAnomaliesApi.js",
+              "RelativeToolTip": "client\\src\\api\\payrollAnomaliesApi.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-09T08:17:25.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "backofficeProfileApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\backofficeProfileApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\backofficeProfileApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\backofficeProfileApi.js",
+              "RelativeToolTip": "client\\src\\api\\backofficeProfileApi.js",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-09T05:29:05.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "AccessibilityPm.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\AccessibilityPm.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages_pm\\AccessibilityPm.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\AccessibilityPm.jsx",
+              "RelativeToolTip": "client\\src\\pages_pm\\AccessibilityPm.jsx",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAQwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-08T17:47:04.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "Accessibility.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\Accessibility.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages\\Accessibility.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\Accessibility.jsx",
+              "RelativeToolTip": "client\\src\\pages\\Accessibility.jsx",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAQwLgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-28T12:11:01.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "overtimePmApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\overtimePmApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\overtimePmApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\overtimePmApi.js",
+              "RelativeToolTip": "client\\src\\api\\overtimePmApi.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-03T15:32:52.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "PayrollAdjustments.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\PayrollAdjustments.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages_pm\\PayrollAdjustments.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\PayrollAdjustments.jsx",
+              "RelativeToolTip": "client\\src\\pages_pm\\PayrollAdjustments.jsx",
+              "ViewState": "AgIAAIcHAAAAAAAAAAAQwLEHAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-06T09:50:45.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\Login.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages\\Login.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\Login.jsx",
+              "RelativeToolTip": "client\\src\\pages\\Login.jsx",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-27T17:14:49.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "EmployeeCompensation.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\EmployeeCompensation.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages_pm\\EmployeeCompensation.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\EmployeeCompensation.jsx",
+              "RelativeToolTip": "client\\src\\pages_pm\\EmployeeCompensation.jsx",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAQwBcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-06T07:24:45.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "payrollScheduleApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\payrollScheduleApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\payrollScheduleApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\payrollScheduleApi.js",
+              "RelativeToolTip": "client\\src\\api\\payrollScheduleApi.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T18:55:13.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "payrollAdjustmentsApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\payrollAdjustmentsApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\payrollAdjustmentsApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\payrollAdjustmentsApi.js",
+              "RelativeToolTip": "client\\src\\api\\payrollAdjustmentsApi.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T09:50:14.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "EmployeeSetup.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\EmployeeSetup.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages_pm\\EmployeeSetup.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\EmployeeSetup.jsx",
+              "RelativeToolTip": "client\\src\\pages_pm\\EmployeeSetup.jsx",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAowKwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-03T18:26:44.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "Paycodes.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\Paycodes.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages_pm\\Paycodes.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\Paycodes.jsx",
+              "RelativeToolTip": "client\\src\\pages_pm\\Paycodes.jsx",
+              "ViewState": "AgIAAGcCAAAAAAAAAAAQwJECAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-06T07:23:01.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "paycodesApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\paycodesApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\paycodesApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\paycodesApi.js",
+              "RelativeToolTip": "client\\src\\api\\paycodesApi.js",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T07:15:45.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "employeePaycodesApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\employeePaycodesApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\employeePaycodesApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\employeePaycodesApi.js",
+              "RelativeToolTip": "client\\src\\api\\employeePaycodesApi.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-06T07:16:20.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "ProgressionsViewer.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\ProgressionsViewer.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages_pm\\ProgressionsViewer.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\ProgressionsViewer.jsx",
+              "RelativeToolTip": "client\\src\\pages_pm\\ProgressionsViewer.jsx",
+              "ViewState": "AgIAAHgBAAAAAAAAAAAQwKIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-03T15:57:42.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "progressionsBackofficeApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\progressionsBackofficeApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\progressionsBackofficeApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\progressionsBackofficeApi.js",
+              "RelativeToolTip": "client\\src\\api\\progressionsBackofficeApi.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-03T15:52:14.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "Progressions.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\Progressions.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages\\Progressions.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages\\Progressions.jsx",
+              "RelativeToolTip": "client\\src\\pages\\Progressions.jsx",
+              "ViewState": "AgIAAFcDAAAAAAAAAAAQwIEDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-28T10:50:20.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "progressionsApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\progressionsApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\progressionsApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\progressionsApi.js",
+              "RelativeToolTip": "client\\src\\api\\progressionsApi.js",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-29T16:23:31.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "OvertimeApprovals.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\OvertimeApprovals.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages_pm\\OvertimeApprovals.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\OvertimeApprovals.jsx",
+              "RelativeToolTip": "client\\src\\pages_pm\\OvertimeApprovals.jsx",
+              "ViewState": "AgIAAJkBAAAAAAAAAAAQwMMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-03T15:33:29.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "ProfileChangeApprovals.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\ProfileChangeApprovals.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages_pm\\ProfileChangeApprovals.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\ProfileChangeApprovals.jsx",
+              "RelativeToolTip": "client\\src\\pages_pm\\ProfileChangeApprovals.jsx",
+              "ViewState": "AgIAAGsBAAAAAAAAAAAQwJUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-03T13:23:05.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "auditApi.js",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\auditApi.js",
+              "RelativeDocumentMoniker": "client\\src\\api\\auditApi.js",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\api\\auditApi.js",
+              "RelativeToolTip": "client\\src\\api\\auditApi.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-02T06:38:34.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "PMSupportTickets.jsx",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\PMSupportTickets.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages_pm\\PMSupportTickets.jsx",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\pages_pm\\PMSupportTickets.jsx",
+              "RelativeToolTip": "client\\src\\pages_pm\\PMSupportTickets.jsx",
+              "ViewState": "AgIAAFICAAAAAAAAAAAQwHwCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-02-03T11:23:02.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\index.css",
+              "RelativeDocumentMoniker": "client\\src\\index.css",
+              "ToolTip": "C:\\Users\\mehtaab\\OneDrive\\Desktop\\Final project CST3990\\smart-payroll\\client\\src\\index.css",
+              "RelativeToolTip": "client\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-28T08:39:38.813Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
